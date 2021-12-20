@@ -1,0 +1,17 @@
+@media (max-width: 1200px) {
+    .menu-section__nav-part {
+        max-width: 970px;
+    }
+}
+
+@media (max-width: 992px) {
+    .menu-section__nav-part {
+        max-width: 750px;
+    }
+}
+
+@media (max-width: 767px) {
+    .menu-section__nav-part {
+        max-width: none;
+    }
+}
